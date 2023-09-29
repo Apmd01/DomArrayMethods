@@ -69,7 +69,7 @@ async function getRandomUser() {
     doubleBtn.addEventListener('click', doubleMoney);
     sortBtn.addEventListener('click', sortByRichest)
     //.then(res => res.json())
-    //.then(data => )
+    //.then(data => 
 
 
 
